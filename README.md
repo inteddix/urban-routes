@@ -9,12 +9,12 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
   - Pruebas de humo.
   - Pruebas de regresión.
   - Creación de informes de errores.
-  
+
 - **Descripción**: En este sprint, aprendí a realizar pruebas de humo y regresión para asegurarme de que las funcionalidades principales de la aplicación no se vean afectadas por cambios recientes. También aprendí a documentar y comunicar los errores encontrados de manera efectiva.
 
 - **Archivos**:
-  - [Informe de Pruebas de Humo](reports/"David Tacuchi, 1.er grupo, 1.er sprint.pdf")
-  - [Informe de Pruebas de Regresión](reports/"David Tacuchi, 1.er grupo, 1.er sprint.pdf")
+  - [Informe de Pruebas de Humo](reports/David%20Tacuchi,%201.er%20grupo,%201.er%20sprint.pdf)
+  - [Informe de Pruebas de Regresión](reports/David%20Tacuchi,%201.er%20grupo,%201.er%20sprint.pdf)
 
 ## Sprint 2: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -25,9 +25,9 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, el enfoque fue en el análisis de requisitos y el diseño de pruebas. Aprendí a identificar las necesidades del cliente y diseñar pruebas que cubran todos los escenarios relevantes. También creé casos de prueba detallados para evaluar la funcionalidad del sistema.
 
 - **Archivos**:
-  - [Análisis de Requisitos](reports/"David Tacuchi, 16.er grupo - 2.o sprint.pdf")
-  - [Diseño de Pruebas](reports/"David Tacuchi, 16.er grupo - 2.o sprint.pdf")
-  - [Casos de Prueba](reports/"David Tacuchi, 16.er grupo - 2.o sprint.pdf")
+  - [Análisis de Requisitos](reports/David%20Tacuchi,%2016.er%20grupo%20-%202.o%20sprint.pdf)
+  - [Diseño de Pruebas](reports/David%20Tacuchi,%2016.er%20grupo%20-%202.o%20sprint.pdf)
+  - [Casos de Prueba](reports/David%20Tacuchi,%2016.er%20grupo%20-%202.o%20sprint.pdf)
 
 ## Sprint 3: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -38,9 +38,9 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: Este sprint se centró en el seguimiento de bugs y la gestión de incidencias usando Jira. Aprendí cómo crear, asignar y dar seguimiento a los errores. Además, se realizaron pruebas de UI (interfaz de usuario) para asegurar que la aplicación sea funcional y accesible para los usuarios.
 
 - **Archivos**:
-  - [Informe de Seguimiento de Bugs](reports/"David Tacuchi, 16er. grupo —3er. sprint .pdf")
-  - [Informe Jira](reports/"David Tacuchi, 16er. grupo —3er. sprint .pdf")
-  - [Pruebas de UI](reports/"David Tacuchi, 16er. grupo —3er. sprint .pdf")
+  - [Informe de Seguimiento de Bugs](reports/David%20Tacuchi,%2016er.%20grupo%20—3er.%20sprint%20.pdf)
+  - [Informe Jira](reports/David%20Tacuchi,%2016er.%20grupo%20—3er.%20sprint%20.pdf)
+  - [Pruebas de UI](reports/David%20Tacuchi,%2016er.%20grupo%20—3er.%20sprint%20.pdf)
 
 ## Sprint 4: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -50,8 +50,8 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, se aprendieron pruebas de servicios web mediante el protocolo HTTP y cómo usar Postman para realizar pruebas de API. Esto permitió verificar que las respuestas de las APIs sean correctas y que los endpoints funcionen adecuadamente.
 
 - **Archivos**:
-  - [Pruebas HTTP](reports/"David Tacuchi, 16 grupo- 4er sprint.pdf")
-  - [Pruebas de API con Postman](reports/"David Tacuchi, 16 grupo- 4er sprint.pdf")
+  - [Pruebas HTTP](reports/David%20Tacuchi,%2016%20grupo-%204er%20sprint.pdf)
+  - [Pruebas de API con Postman](reports/David%20Tacuchi,%2016%20grupo-%204er%20sprint.pdf)
 
 ## Sprint 5: 16.er Grupo
 - **Habilidades adquiridas**:
@@ -61,8 +61,14 @@ Este proyecto fue creado para documentar las habilidades adquiridas y las tareas
 - **Descripción**: En este sprint, se aprendió a realizar pruebas en aplicaciones móviles utilizando Android Studio. Esto incluyó la instalación y configuración de entornos de prueba, así como la ejecución de pruebas específicas para garantizar la calidad de las aplicaciones móviles.
 
 - **Archivos**:
-  - [Pruebas en Aplicaciones Móviles](reports/"David Tacuchi, 16grupo — 5er sprint.pdf")
-  - [Android Studio](reports/"David Tacuchi, 16grupo — 5er sprint.pdf")
+  - [Pruebas en Aplicaciones Móviles](reports/David%20Tacuchi,%2016grupo%20—%205er%20sprint.pdf)
+  - [Android Studio](reports/David%20Tacuchi,%2016grupo%20—%205er%20sprint.pdf)
+
+## Estructura del Proyecto
+
+La estructura de este repositorio **`urban-routes`** está organizada de la siguiente manera:
+
+
 
 ## Estructura del Proyecto
 
